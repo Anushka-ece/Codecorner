@@ -1,3 +1,4 @@
+>//find the number of connected components in a graph and it's size
 #include<iostream>
 #include<vector>
 using namepsace std;
